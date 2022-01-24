@@ -88,4 +88,4 @@ I'll be able to use the knowledge I obtained in this project to make better use 
 ## Author
 
 - Frontend Mentor - [@branalex94](https://www.frontendmentor.io/profile/branalex94)
-- Twitter - [@yourusername](https://github.com/branalex94/)
+- GitHub - [@branalex94](https://github.com/branalex94/)
